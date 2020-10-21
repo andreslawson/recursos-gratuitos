@@ -236,10 +236,16 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Paletton](https://paletton.com/) | <img src="assets/eua.png" width="40px"> |
 | [Happy Hues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
 | [Design Seeds](https://www.design-seeds.com/) | <img src="assets/eua.png" width="40px"> |
-| [Colorsinspo](https://www.colorsinspo.com/) | <img src="assets/eua.png" width="40px"> |
+| [Colorsinspo](https://colorsinspo.com/) | <img src="assets/eua.png" width="40px"> |
 | [Happyhues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
-
-
+| [Coolors](https://coolors.co/) | <img src="assets/eua.png" width="40px"> |
+| [Color Hunt](https://colorhunt.co/) | <img src="assets/eua.png" width="40px"> |
+| [Designs Ai](https://designs.ai/colors/) | <img src="assets/eua.png" width="40px"> |
+| [Colorwise](https://colorwise.io/) | <img src="assets/eua.png" width="40px"> |
+| [Hexpalette](https://hexpalette.com/) | <img src="assets/eua.png" width="40px"> |
+| [Colormind](http://colormind.io/) | <img src="assets/eua.png" width="40px"> |
+| [Color Space](https://mycolor.space/) | <img src="assets/eua.png" width="40px"> |
+| [Color Designer](https://colordesigner.io/) | <img src="assets/eua.png" width="40px"> |
 
 
 ## 🔤 Fontes
