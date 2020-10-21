@@ -236,6 +236,10 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [Paletton](https://paletton.com/) | <img src="assets/eua.png" width="40px"> |
 | [Happy Hues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
 | [Design Seeds](https://www.design-seeds.com/) | <img src="assets/eua.png" width="40px"> |
+| [Colorsinspo](https://www.colorsinspo.com/) | <img src="assets/eua.png" width="40px"> |
+| [Happyhues](https://www.happyhues.co/) | <img src="assets/eua.png" width="40px"> |
+
+
 
 
 ## 🔤 Fontes
@@ -251,6 +255,7 @@ Uma coisa que eu sempre fico em dúvida na hora de desenvolver meus sites é sem
 | [BeFonts](https://befonts.com/) | <img src="assets/eua.png" width="40px"> |
 | [Urbanfonts](https://www.urbanfonts.com/pt) | <img src="assets/br.jpg" width="40px"> |
 | [Unblast](https://unblast.com/fonts/) | <img src="assets/eua.png" width="40px"> |
+
 
 ## 🎉 Ícones
 
